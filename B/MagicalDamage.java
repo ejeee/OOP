@@ -1,0 +1,5 @@
+package B;
+
+public interface MagicalDamage {
+	double magicDamageBonus = 0.8;
+}
